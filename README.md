@@ -14,6 +14,6 @@
 
 # `Owner`
 
- <a href="https://github.com/Goodchild63"><img src="https://github.com/OligoCodes.png" width="250" height="250" alt="OligoCodes"/></a>
+ <a href="https://github.com/Goodchild63"><img src="https://github.com/Goodchild63.png" width="250" height="250" alt="goodchildwilliamz"/></a>
 
    
